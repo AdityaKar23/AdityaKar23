@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Aditya Kar.
 
 <!--
 **AdityaKar23/AdityaKar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
