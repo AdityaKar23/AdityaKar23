@@ -1,16 +1,22 @@
-##                                               Hi I'm Aditya Kar.
+### Hi there 👋, Hi, I'm Aditya Kar
+#### Web Developer.
+I’m currently a student in the department of Computer Science and Engineering at Independent University, Bangladesh.
+I'm immensely interested in Frontend Web Development and also doing some programming projects using C and Python.
 
-<!--
-**AdityaKar23/AdityaKar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"Don't sit down and wait for the opportunities to come. Get up and make them." — Madam C.J. Walker.
 
-Here are some ideas to get you started:
+Skills:  HTML / CSS / JS / C / Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AdityaKar23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/adityakar23?mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/aditya.kar_/profilecard/?igsh=dG0ydzB4Zjd2ejE0/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/qr/4XQGASELILR6L1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](adityakar141@gmail.com)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/AdityaKar23)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/AdityaKar23)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/AdityaKar23&show_icons=true)  
+
+
