@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Aditya Kar
+### Hi there 👋, I'm **Aditya Kar**
 #### I am a Programmer & Software Enthusiast.
 ![I am a Programmer & Software Enthusiast.](https://media.licdn.com/dms/image/v2/D5616AQEkkkXFN1XF8A/profile-displaybackgroundimage-shrink_350_1400/B56Zb8OMV3HwAc-/0/1747988303225?e=1755129600&v=beta&t=eeNhM9jtgJir-tsn6QOrequT20yzwBC2-zyuwPCDCKc)
 
@@ -18,8 +18,6 @@ Skills: Python | C++ | HTML | CSS | JavaScript
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKar23)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaKar23&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/AdityaKar23/contributions?format=svg&private=false)  
 
 ![GitHub metrics](https://metrics.lecoq.io/AdityaKar23)  
 
