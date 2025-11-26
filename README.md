@@ -4,7 +4,7 @@
 
 I am an organized and dedicated Computer Science and Engineering undergraduate at Independent University, Bangladesh. I am enthusiastic about applying my technical knowledge and disciplined mindset to real-world challenges. With a strong foundation in Frontend Web Development & Programming and proficiency in Python & Java, I am eager to contribute to innovative projects and continuously grow as a software professional.
 
-Skills: Python | C++ | HTML | CSS | JavaScript
+Skills: Python | C++ | Java | HTML | CSS | JavaScript
 
 - 🔭 I’m currently working on Web Development & Python 
 - 💬 Ask me about Programming. 
