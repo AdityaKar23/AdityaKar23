@@ -2,7 +2,7 @@
 #### I am a Programmer & Software Enthusiast.
 ![I am a Programmer & Software Enthusiast.](https://media.licdn.com/dms/image/v2/D5616AQEkkkXFN1XF8A/profile-displaybackgroundimage-shrink_350_1400/B56Zb8OMV3HwAc-/0/1747988303225?e=1755129600&v=beta&t=eeNhM9jtgJir-tsn6QOrequT20yzwBC2-zyuwPCDCKc)
 
-I am an organized and dedicated Computer Science and Engineering undergraduate at Independent University, Bangladesh. I am enthusiastic about applying my technical knowledge and disciplined mindset to real-world challenges. With a strong foundation in Frontend Web Development & Programming and proficiency in Python, I am eager to contribute to innovative projects and continuously grow as a software professional.
+I am an organized and dedicated Computer Science and Engineering undergraduate at Independent University, Bangladesh. I am enthusiastic about applying my technical knowledge and disciplined mindset to real-world challenges. With a strong foundation in Frontend Web Development & Programming and proficiency in Python & Java, I am eager to contribute to innovative projects and continuously grow as a software professional.
 
 Skills: Python | C++ | HTML | CSS | JavaScript
 
