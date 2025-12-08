@@ -13,13 +13,5 @@ Skills: Python | C++ | Java | HTML | CSS | JavaScript
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AdityaKar23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aditya-kar-/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Aditya_Kar_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](adityaKar_23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](adityaKar_23)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AdityaKar23)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKar23)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaKar23&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/AdityaKar23)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AdityaKar23)  
 
