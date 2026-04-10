@@ -10,8 +10,15 @@ Skills: Python | C++ | Java | HTML | CSS | JavaScript | SQL
 - 💬 Ask me about Programming. 
 - 📫 How to reach me: adityakar141@gmail.com 
 
+<!--
+//[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AdityaKar23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aditya-kar-/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Aditya_Kar_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](adityaKar_23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](adityaKar_23)  
+-->
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AdityaKar23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aditya-kar-/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Aditya_Kar_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](adityaKar_23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](adityaKar_23)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg?color=white" height="40">](https://github.com/AdityaKar23)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg?color=white" height="40">](https://www.linkedin.com/in/aditya-kar/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg?color=white" height="40">](https://twitter.com/Aditya_Kar)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg?color=white" height="40">](adityaKar23)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg?color=white" height="40">](adityaKar23)
 
 
 
